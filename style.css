@@ -1,0 +1,25 @@
+.navbar #collapsibleNavbar .navbar-nav .dropdown .dropdown-menu a {
+  color: white;
+}
+
+.navbar #collapsibleNavbar .navbar-nav .dropdown .dropdown-menu a:hover {
+  background-color: green;
+}
+
+.container #games {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.container #games > div {
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+.container #games img {
+  width: 180px;
+  height: 250px;
+}
+
