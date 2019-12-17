@@ -1,3 +1,10 @@
+
+body{
+  background-image: linear-gradient(to top left,#EB5757,#000000);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 .navbar #collapsibleNavbar .navbar-nav .dropdown .dropdown-menu a {
   color: white;
 }
@@ -14,12 +21,11 @@
 }
 
 .container #games > div {
-  padding-top: 30px;
-  padding-left: 30px;
+  margin: 10px;
+
 }
 
 .container #games img {
   width: 180px;
   height: 250px;
 }
-

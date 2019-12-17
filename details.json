@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "name": "Dark Souls 3",
+        "price": 200,
+        "desc": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!"
+    },
+    {
+        "id": 1,
+        "name": "Resident Evil 2",
+        "price": 300,
+        "desc": "The original Resident Evil 2 was released in 1998 and has sold over 4,960,000 copies. The action centers around rookie cop Leon Kennedy and college student Claire Redfield as they fight to survive a mysterious viral outbreak within Raccoon City."
+    },
+    {
+        "id": 2,
+        "name": "Call of Duty Modern Warfare",
+        "price": 400,
+        "desc": "Modern Warfare's single-player campaign focuses on realism and feature tactically-based moral choices whereupon the player is evaluated and assigned a score at the end of each level; players have to quickly ascertain whether NPCs are a threat or not, such as a civilian woman who is believed to be reaching for a gun, but then simply grabs her baby from a crib. This collateral damage score, referred to as a threat assessment, is based on how many civilians the player injures or kills and ranges from rank A to F. Rewards are introduced to those who score higher."
+    }
+]
